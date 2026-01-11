@@ -22,7 +22,7 @@
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![mongoDB](https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail.png)
+![mongoDB](https://img.shields.io/badge/mongoDB-%2300f.svg?style=for-the-badge&logo=mongoDB&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
