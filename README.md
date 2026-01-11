@@ -1,4 +1,4 @@
-![Banner Image](github.png)
+![Banner Image](Github.png)
 
 # Hi there! I'm MD. Rasheduzzaman Imran 👋
 
