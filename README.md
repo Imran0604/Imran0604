@@ -1,6 +1,6 @@
-![Banner Image](Github.png)
 
 # Hi there! I'm MD. Rasheduzzaman Imran 👋
+![Banner Image](Github.png)
 
 ### Robotics Enthusiast | Developer | Problem Solver
 
