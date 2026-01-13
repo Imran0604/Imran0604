@@ -1,12 +1,16 @@
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+MD.+Rasheduzzaman+Imran;Robotics+Enthusiast+%7C+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </a>
+</div>
 
 # Hi there! I'm MD. Rasheduzzaman Imran 👋
 ![Banner Image](Github.png)
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Learning+Natural+Language+Processing;Mastering+Data+Structures+%26+Algorithms;Exploring+AI,+Web+Tech+%26+Robotics;Always+Learning+Something+New" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Learning+Natural+Language+Processing;Mastering+Data+Structures+%26+Algorithms;Exploring+AI,+Web+Tech+%26+Robotics;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</div>
 
 ### Robotics Enthusiast | Developer | Problem Solver
 
